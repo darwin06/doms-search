@@ -1,0 +1,117 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DOMS Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 16:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: doms-search.php:50 doms-search.php:52
+msgid "Download here"
+msgstr ""
+
+#: inc/options.php:14
+msgid "DOMS Search settings"
+msgstr ""
+
+#: inc/options.php:16
+msgid "Options to enable filter search by format Plugin."
+msgstr ""
+
+#: inc/options.php:22
+msgid "Save Changes"
+msgstr ""
+
+#: inc/options.php:30
+msgid "Main Settings"
+msgstr ""
+
+#: inc/options.php:33
+msgid "Choose SELECT or CHECKBOX"
+msgstr ""
+
+#: inc/options.php:35
+msgid "Enable filter PDF file"
+msgstr ""
+
+#: inc/options.php:36
+msgid "Enable filter DOC file"
+msgstr ""
+
+#: inc/options.php:37
+msgid "Enable filter IMG file"
+msgstr ""
+
+#: inc/options.php:38
+msgid "Enable filter VIDEO file"
+msgstr ""
+
+#: inc/options.php:44
+msgid "This section is for setup the settings for Search filter plugin"
+msgstr ""
+
+#: inc/options.php:54
+msgid "Select Tag"
+msgstr ""
+
+#: inc/options.php:56
+msgid "Checkbox tag"
+msgstr ""
+
+#: inc/searchform.php:30
+msgid "Search&hellip;"
+msgstr ""
+
+#: inc/searchform.php:32
+msgid "Search for:"
+msgstr ""
+
+#: inc/searchform.php:40
+msgid "All Results"
+msgstr ""
+
+#: inc/searchform.php:43 inc/searchform.php:91
+msgid "PDFs"
+msgstr ""
+
+#: inc/searchform.php:47 inc/searchform.php:102
+msgid "DOCs"
+msgstr ""
+
+#: inc/searchform.php:51 inc/searchform.php:113
+msgid "Images"
+msgstr ""
+
+#: inc/searchform.php:55 inc/searchform.php:124
+msgid "Videos"
+msgstr ""
+
+#: inc/searchform.php:64
+msgid "Search"
+msgstr ""
+
+#. Name of the plugin
+msgid "DOMS Search"
+msgstr ""
+
+#. Description of the plugin
+msgid "Search plugin 🚀."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://darwin06.github.io/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Darwin Mateos"
+msgstr ""

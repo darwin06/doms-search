@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DOMS Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 19:01+0000\n"
+"PO-Revision-Date: 2019-06-04 19:02+0000\n"
+"Last-Translator: Darwin Mateos\n"
+"Language-Team: Spanish (Mexico)\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: doms-search.php:50 doms-search.php:52
+msgid "Download here"
+msgstr "Descargar aquí"
+
+#: includes/options.php:14
+msgid "DOMS Search settings"
+msgstr "Ajustes para DOMS Search"
+
+#: includes/options.php:16
+msgid "Options to enable filter search by format Plugin."
+msgstr "Opciones para habilitar el filtro de búsqueda"
+
+#: includes/options.php:22
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: includes/options.php:30
+msgid "Main Settings"
+msgstr "Ajustes principales"
+
+#: includes/options.php:33
+msgid "Choose SELECT or CHECKBOX"
+msgstr "Elige entre SELECT o CHECKBOX"
+
+#: includes/options.php:35
+msgid "Enable filter PDF file"
+msgstr "Activar filtro PDF"
+
+#: includes/options.php:36
+msgid "Enable filter DOC file"
+msgstr "Activar filtro DOC"
+
+#: includes/options.php:37
+msgid "Enable filter IMG file"
+msgstr "Activar filtro Imágenes"
+
+#: includes/options.php:38
+msgid "Enable filter VIDEO file"
+msgstr "Activar filtro Vídeos"
+
+#: includes/options.php:44
+msgid "This section is for setup the settings for Search filter plugin"
+msgstr "Está sección es para los ajustes del filtro de búsqueda"
+
+#: includes/options.php:54
+msgid "Select Tag"
+msgstr "Etiqueta Select"
+
+#: includes/options.php:56
+msgid "Checkbox tag"
+msgstr "Etiqueta Checkbox"
+
+#: includes/searchform.php:30
+msgid "Search&hellip;"
+msgstr "Buscar&hellip;"
+
+#: includes/searchform.php:32
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: includes/searchform.php:40
+msgid "All Results"
+msgstr "Todos los resultados"
+
+#: includes/searchform.php:43 includes/searchform.php:91
+msgid "PDFs"
+msgstr "PDFs"
+
+#: includes/searchform.php:47 includes/searchform.php:102
+msgid "DOCs"
+msgstr "DOCs"
+
+#: includes/searchform.php:51 includes/searchform.php:113
+msgid "Images"
+msgstr "Imágenes"
+
+#: includes/searchform.php:55 includes/searchform.php:124
+msgid "Videos"
+msgstr "Vídeos"
+
+#: includes/searchform.php:64
+msgid "Search"
+msgstr "Buscar"
+
+#. Name of the plugin
+msgid "DOMS Search"
+msgstr "DOMS Search"
+
+#. Description of the plugin
+msgid "Plugin to enable filter search by PDF's, Doc's, Images and/or Videos 🚀."
+msgstr ""
+"Plugin para habilitar el filtro de búsqueda por PDF´s, DOC's, Imágenes y/o "
+"Vídeos 🚀."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://darwin06.github.io/"
+msgstr "http://darwin06.github.io/"
+
+#. Author of the plugin
+msgid "Darwin Mateos"
+msgstr "Darwin Mateos"

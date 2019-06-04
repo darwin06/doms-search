@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DOMS Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-04 16:57+0000\n"
+"PO-Revision-Date: 2019-06-04 16:59+0000\n"
+"Last-Translator: Darwin Mateos\n"
+"Language-Team: Español de México\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.2.1"
+
+#: doms-search.php:50 doms-search.php:52
+msgid "Download here"
+msgstr "Descargar aquí"
+
+#: inc/options.php:14
+msgid "DOMS Search settings"
+msgstr "Ajustes para DOMS Search"
+
+#: inc/options.php:16
+msgid "Options to enable filter search by format Plugin."
+msgstr "Opciones para habilitar el filtro de búsqueda"
+
+#: inc/options.php:22
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: inc/options.php:30
+msgid "Main Settings"
+msgstr "Ajustes principales"
+
+#: inc/options.php:33
+msgid "Choose SELECT or CHECKBOX"
+msgstr "Elige entre SELECT o CHECKBOX"
+
+#: inc/options.php:35
+msgid "Enable filter PDF file"
+msgstr "Activar filtro PDF"
+
+#: inc/options.php:36
+msgid "Enable filter DOC file"
+msgstr "Activar filtro DOC"
+
+#: inc/options.php:37
+msgid "Enable filter IMG file"
+msgstr "Activar filtro Imágenes"
+
+#: inc/options.php:38
+msgid "Enable filter VIDEO file"
+msgstr "Activar filtro Vídeos"
+
+#: inc/options.php:44
+msgid "This section is for setup the settings for Search filter plugin"
+msgstr "Está sección es para los ajustes del filtro de búsqueda"
+
+#: inc/options.php:54
+msgid "Select Tag"
+msgstr "Etiqueta Select"
+
+#: inc/options.php:56
+msgid "Checkbox tag"
+msgstr "Etiqueta Checkbox"
+
+#: inc/searchform.php:30
+msgid "Search&hellip;"
+msgstr "Buscar&hellip;"
+
+#: inc/searchform.php:32
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: inc/searchform.php:40
+msgid "All Results"
+msgstr "Todos los resultados"
+
+#: inc/searchform.php:43 inc/searchform.php:91
+msgid "PDFs"
+msgstr "PDFs"
+
+#: inc/searchform.php:47 inc/searchform.php:102
+msgid "DOCs"
+msgstr "DOCs"
+
+#: inc/searchform.php:51 inc/searchform.php:113
+msgid "Images"
+msgstr "Imágenes"
+
+#: inc/searchform.php:55 inc/searchform.php:124
+msgid "Videos"
+msgstr "Vídeos"
+
+#: inc/searchform.php:64
+msgid "Search"
+msgstr "Buscar"
+
+#. Name of the plugin
+msgid "DOMS Search"
+msgstr "DOMS Search"
+
+#. Description of the plugin
+msgid "Search plugin 🚀."
+msgstr "Plugin de Búsqueda 🚀."
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://darwin06.github.io/"
+msgstr "http://darwin06.github.io/"
+
+#. Author of the plugin
+msgid "Darwin Mateos"
+msgstr "Darwin Mateos"
