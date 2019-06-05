@@ -59,12 +59,10 @@
                 </div>
               </div>
               <?php } ?>
-
               <div class="form-group col-md-2">
                 <input class="btn btn-primary btn-block" type="submit" value="<?php _e('Search', 'doms-search'); ?>">
               </div>
             </div>
-
           </div>
         </div>
         <?php

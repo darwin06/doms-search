@@ -3,7 +3,7 @@
  * Plugin Name: DOMS Search
  * Plugin URI: https://github.com/darwin06/doms-search
  * Description: Plugin to enable filter search by PDF's, Doc's, Images and/or Videos 🚀.
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Darwin Mateos
  * Author URI: http://darwin06.github.io/
  * License: GPL2

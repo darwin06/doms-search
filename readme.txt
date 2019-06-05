@@ -2,7 +2,7 @@
 Tags: search, tool, filter, files
 Donate link: https://www.paypal.me/darwin06
 Requires at least: 4.5
-Tested up to: 4.9.1
+Tested up to: 5.2.1
 Requires PHP: 5.6
 Stable tag: stable
 License: GPL2
@@ -25,7 +25,7 @@ Plugin to enable filter search by PDF's, Doc's, Images and/or Videos
 
 == Frequently Asked Questions ==
 -- Any Question
-Please send me a email to ethan06@gmail.com
+Please send me an email to ethan06@gmail.com
 
 == Screenshots ==
 1. Settings
@@ -33,8 +33,9 @@ Please send me a email to ethan06@gmail.com
 3. Checkbox view
 
 == Upgrade Notice ==
-No upgrades
+Tested up to WordPress 5.1.5
+Everything works fine! 👍
 
 == Changelog ==
-Version 0.0.1
-Initial Release.
+Version 0.0.2
+Tested up to last WordPress version
